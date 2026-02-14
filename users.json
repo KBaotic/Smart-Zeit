@@ -1,0 +1,71 @@
+{
+  "kristinabaotic": {
+    "firstname": "Kristina",
+    "lastname": "Baotic",
+    "email": "kristinabaotic@gmail.com",
+    "password": "kristinabaotic",
+    "role": "admin",
+    "created_at": "2025-11-12"
+  },
+  "anabaotic": {
+    "firstname": "ana",
+    "lastname": "baotic",
+    "email": "anabaotic@gmail.com",
+    "password": "anabaotic1234",
+    "role": "vip",
+    "created_at": "2025-11-13"
+  },
+  "luca": {
+    "firstname": "Luca",
+    "lastname": "De Mitri",
+    "email": "luca@gmail.com",
+    "password": "12345678",
+    "role": "vip",
+    "created_at": "2025-11-14"
+  },
+  "leonbaotic": {
+    "firstname": "Leon",
+    "lastname": "Baotic",
+    "email": "leonbaotic@gmail.com",
+    "password": "leonbaotic123",
+    "role": "vip",
+    "created_at": "2025-11-17"
+  },
+  "sanja": {
+    "firstname": "Sanja",
+    "lastname": "Piljic",
+    "email": "sanja@gmail.com",
+    "password": "12345678",
+    "role": "user",
+    "created_at": "2025-12-15"
+  },
+  "sanjapiljic": {
+    "firstname": "sanja",
+    "lastname": "piljic",
+    "email": "sanjapiljic@gmail.com",
+    "password": "12345678",
+    "role": "user",
+    "created_at": "2025-12-15"
+  },
+  "bla": {
+    "firstname": "b",
+    "lastname": "ab",
+    "email": "bla@test",
+    "password": "12345678",
+    "role": "user"
+  },
+  "kb": {
+    "firstname": "kristina",
+    "lastname": "b",
+    "email": "kb@test.de",
+    "password": "12345678",
+    "role": "user"
+  },
+  "marinka": {
+    "firstname": "marinka",
+    "lastname": "baotic",
+    "email": "marinka@test.de",
+    "password": "12345678",
+    "role": "user"
+  }
+}
