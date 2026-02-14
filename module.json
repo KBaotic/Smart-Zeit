@@ -1,0 +1,23 @@
+[
+  {
+    "id": "frontend",
+    "name": "Frontend",
+    "beschreibung": "test",
+    "erstellt_am": "2025-11-14 18:35:53",
+    "erstellt_von": "kristinabaotic"
+  },
+  {
+    "id": "informatik",
+    "name": "Informatik",
+    "beschreibung": "Techsnisch",
+    "erstellt_am": "2025-12-15 08:48:11",
+    "erstellt_von": "kristinabaotic"
+  },
+  {
+    "id": "backend",
+    "name": "Backend",
+    "beschreibung": "Technisch",
+    "erstellt_am": "2025-12-15 08:48:24",
+    "erstellt_von": "kristinabaotic"
+  }
+]

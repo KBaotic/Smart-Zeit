@@ -1,0 +1,50 @@
+[
+  {
+    "datum": "2025-04-15",
+    "stunden": "1",
+    "minuten": "46",
+    "modul": "Informatik",
+    "beschreibung": "Design und Implementierung des Datenbankschemas f\u00fcr das Berichtssystem. Erstellung von Tabellen f\u00fcr Benutzer, Berichte und Module mit entsprechenden Beziehungen. Migration der bestehenden Daten von JSON-Dateien zu PostgreSQL. Indizierung wichtiger Spalten zur Performance-Verbesserung. Backup-Strategie entwickelt und getestet.",
+    "benutzer": "sanja"
+  },
+  {
+    "datum": "2024-08-12",
+    "stunden": "4",
+    "minuten": "55",
+    "modul": "Backend",
+    "beschreibung": "Design und Implementierung des Datenbankschemas f\u00fcr das Berichtssystem. Erstellung von Tabellen f\u00fcr Benutzer, Berichte und Module mit entsprechenden Beziehungen. Migration der bestehenden Daten von JSON-Dateien zu PostgreSQL. Indizierung wichtiger Spalten zur Performance-Verbesserung. Backup-Strategie entwickelt und getestet.",
+    "benutzer": "luca"
+  },
+  {
+    "datum": "2925-09-23",
+    "stunden": "3",
+    "minuten": "45",
+    "modul": "Informatik",
+    "beschreibung": "Design und Implementierung des Datenbankschemas f\u00fcr das Berichtssystem. Erstellung von Tabellen f\u00fcr Benutzer, Berichte und Module mit entsprechenden Beziehungen. Migration der bestehenden Daten von JSON-Dateien zu PostgreSQL. Indizierung wichtiger Spalten zur Performance-Verbesserung. Backup-Strategie entwickelt und getestet.",
+    "benutzer": "luca"
+  },
+  {
+    "datum": "2024-03-25",
+    "stunden": "4",
+    "minuten": "15",
+    "modul": "Backend",
+    "beschreibung": "Design und Implementierung des Datenbankschemas f\u00fcr das Berichtssystem. Erstellung von Tabellen f\u00fcr Benutzer, Berichte und Module mit entsprechenden Beziehungen. Migration der bestehenden Daten von JSON-Dateien zu PostgreSQL. Indizierung wichtiger Spalten zur Performance-Verbesserung. Backup-Strategie entwickelt und getestet.",
+    "benutzer": "kristinabaotic"
+  },
+  {
+    "datum": "2025-11-18",
+    "stunden": "2",
+    "minuten": "30",
+    "modul": "Informatik",
+    "beschreibung": "Implementierung der REST-API-Endpunkte f\u00fcr die Benutzerverwaltung. Erstellung von POST-, GET-, PUT- und DELETE-Methoden mit Django REST Framework. Integration von JWT-Authentifizierung und Autorisierung f\u00fcr sichere API-Zugriffe. Unit-Tests f\u00fcr alle Endpoints geschrieben und erfolgreich durchgef\u00fchrt. Code-Review und Refactoring zur Verbesserung der Performance.",
+    "benutzer": "kristinabaotic"
+  },
+  {
+    "datum": "1111-11-11",
+    "stunden": "1",
+    "minuten": "1",
+    "modul": "Backend",
+    "beschreibung": "edf",
+    "benutzer": "leonbaotic"
+  }
+]
